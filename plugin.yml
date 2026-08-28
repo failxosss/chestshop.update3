@@ -1,0 +1,12 @@
+name: SimpleShop
+main: org.simpleshop.SimpleShop
+version: 1.0.0
+api-version: '1.20'
+author: Failxos
+softdepend: [Vault]
+description: >
+  Jednoduchy shop plugin ovladany cedulemi. Format cedule:
+  1. radek: [shop]
+  2. radek: cena
+  3. radek: B (majitel vykupuje) nebo S (majitel prodava)
+  4. radek: doplni si plugin sam podle itemu v truhle

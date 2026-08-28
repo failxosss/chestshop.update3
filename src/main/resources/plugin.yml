@@ -1,4 +1,4 @@
-name: SimpleShop
+name: ChestShop
 main: org.simpleshop.SimpleShop
 version: 1.0.0
 api-version: '1.20'
